@@ -1,4 +1,4 @@
-## •	Estimate the number of ice cream cups sold annually in India.
+# •	Estimate the number of ice cream cups sold annually in India.
 
 Population of India = 1.5 billion = 1,500,000,000
 
